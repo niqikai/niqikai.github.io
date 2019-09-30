@@ -1,3 +1,3 @@
-# Headline
+# GitHub Page
 
-> An awesome project.
+Visit [home page](https://niqikai.github.io/).
